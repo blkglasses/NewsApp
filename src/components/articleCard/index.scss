@@ -1,0 +1,38 @@
+.card-container {
+  width: 92%;
+  margin: 0 auto;
+  border-bottom: solid 1px #e4e4e4;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.card-title-container {
+}
+
+.card-title {
+  font-size: 35px;
+  white-space: normal;
+}
+
+.card-tips {
+  //   height: 20px;
+  white-space: nowrap;
+}
+
+.card-tips-text {
+  font-size: 20px;
+  display: inline;
+  margin-right: 20px;
+}
+
+.tips-top-text {
+  color: #ff2b3f;
+  border: #ff7481 solid 1px;
+  padding: 3px 10px;
+  margin-right: 10px;
+  border-radius: 10px;
+}
+
+.tips-text {
+  color: #a5a5a5;
+}
